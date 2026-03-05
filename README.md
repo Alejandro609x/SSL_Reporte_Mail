@@ -56,7 +56,7 @@ python3 --version
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/ssl-certificate-monitor.git
+git clone https://github.com/Alejandro609x/SSL_Reporte_Mail.git
 ```
 
 Entrar al directorio:
