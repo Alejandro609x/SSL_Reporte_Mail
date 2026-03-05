@@ -1,0 +1,15 @@
+https://example.com
+https://www.example.com
+https://test.example.com
+https://demo.example.com
+https://portal.example.com
+https://api.example.com
+https://mail.example.com
+https://intranet.example.com
+https://servicios.example.com
+https://sistema.example.com
+https://app.example.com
+https://secure.example.com
+https://vpn.example.com
+https://auth.example.com
+https://cloud.example.com
