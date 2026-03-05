@@ -62,7 +62,7 @@ git clone https://github.com/Alejandro609x/SSL_Reporte_Mail.git
 Entrar al directorio:
 
 ```bash
-cd ssl-certificate-monitor
+cd SSL_Reporte_Mail
 ```
 
 ---
