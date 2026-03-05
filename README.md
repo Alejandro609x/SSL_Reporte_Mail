@@ -328,12 +328,6 @@ fork → branch → commit → pull request
 
 ---
 
-# Licencia
-
-MIT License
-
----
-
 # Autor
 
 Proyecto desarrollado para monitoreo de certificados SSL en entornos de infraestructura y seguridad.
